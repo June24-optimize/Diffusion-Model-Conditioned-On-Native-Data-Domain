@@ -16,7 +16,7 @@ from torch.utils.data import Dataset, DataLoader
 from torch import optim
 from ddpm_utils import *
 import Utils
-from modules_ import UNet, ReconNet_nolearn
+from modules import UNet, ReconNet_nolearn
 import logging
 import cv2
 from torch.utils.tensorboard import SummaryWriter
