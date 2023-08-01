@@ -14,7 +14,7 @@ import scipy.io as sio
 import numpy as np
 from torch.utils.data import Dataset, DataLoader
 from torch import optim
-from utils import *
+from ddpm_utils import *
 import Utils
 from modules_ import UNet, ReconNet_nolearn
 import logging
