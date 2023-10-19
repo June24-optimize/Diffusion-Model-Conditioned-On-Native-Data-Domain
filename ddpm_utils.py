@@ -3,7 +3,7 @@
 """
 Created on Thu Jun 29 12:25:22 2023
 
-@author: wb885
+@author: Wanyu Bian
 """
 import os
 import torch
