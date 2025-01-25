@@ -3,3 +3,9 @@ This is a method for image reconstruction based on a diffusion model which is co
 
 ![Project Screenshot](./framework.png)
 
+## Citation
+
+If you find this repository useful, please cite:
+
+**Bian, Wanyu, et al.** "Diffusion modeling with domain-conditioned prior guidance for accelerated MRI and qMRI reconstruction." *IEEE Transactions on Medical Imaging*, 2024.
+
