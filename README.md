@@ -6,7 +6,7 @@ Gradient descent algorithm is integrated into the diffusion steps to augment fea
 
 ![Project Screenshot](./framework.png)
 
-The diffusion steps are embedded into a Unet, specifically in each self-attention layer. This figure shows U-Net network structure used for $\epsilon_{\theta}$:
+The diffusion steps are embedded into a Unet, specifically in each self-attention layer. This figure shows U-Net network structure used for learning  $\epsilon_{\theta}$ in the training step:
 ![Project Screenshot](./Unet.png)
 
 
